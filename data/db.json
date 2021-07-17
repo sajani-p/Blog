@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Zion Adventure Photog",
+      "body": "Zion Adventure Photog is a great blog example because of the way its design mirrors its content. The blog posts provide detailed guidance about specific hikes, as well as useful information about activities such as canyoneering and activities for kids. From the written content within, it’s clear that Arika, the creator of this adventure photography website, is in-the-know about her field. Other features also make this evident. One of those is the rugged, playful atmosphere of the blog, which uses a green and yellow color scheme to evoke ideas of nature and sunshine. The blog’s homepage is rich with images of happy clients enjoying their adventures - visual testimonials that confirm Arika’s skill as a photographer. She further encourages engagement by embedding her Instagram Feed directly onto her site, spreading the word about her service and drawing people deeper into her brand. Ultimately, Arika’s blog serves a dual purpose: it’s a portfolio of her photography skills, while simultaneously highlighting her knowledge about the Zion area. By turning her expertise into a business, she’s able to make money blogging",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Little Women",
+      "body": "Little Women is a coming-of-age novel written by American novelist Louisa May Alcott (1832–1888).\n\nOriginally published in two volumes in 1868 and 1869, Alcott wrote the book over several months at the request of her publisher.[1][2] The story follows the lives of the four March sisters—Meg, Jo, Beth, and Amy—and details their passage from childhood to womanhood. Loosely based on the lives of the author and her three sisters,[3][4]:202 it is classified as an autobiographical or semi-autobiographical novel.[5][6]:12\n\nLittle Women was an immediate commercial and critical success, with readers eager for more about the characters. Alcott quickly completed a second volume (titled Good Wives in the United Kingdom, though the name originated with the publisher and not Alcott). It also met with success. The two volumes were issued in 1880 as a single novel titled Little Women. Alcott subsequently wrote two sequels to her popular work, both also featuring the March sisters: Little Men (1871) and Jo's Boys (1886).\n\nThe novel has been said to address three major themes: \"domesticity, work, and true love, all of them interdependent and each necessary to the achievement of its heroine's individual identity.\"[7]:200 According to Sarah Elbert, Alcott created a new form of literature, one that took elements from romantic children's fiction and combined it with others from sentimental novels, resulting in a totally new genre. Elbert argues that within Little Women can be found the first vision of the \"All-American girl\" and that her various aspects are embodied in the differing March sisters.[7]:199",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "The Greatest Showman",
+      "body": "The Greatest Showman is a 2017 American musical drama film directed by Michael Gracey in his directorial debut, written by Jenny Bicks and Bill Condon and starring Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, and Zendaya. Featuring nine original songs from Benj Pasek and Justin Paul, the film was inspired by the story of P. T. Barnum's creation of Barnum's American Museum and the lives of its star attractions.\n\nPrincipal photography began in New York City in November 2016. The film premiered on December 8, 2017, aboard RMS Queen Mary 2. It was released in the United States on December 20, 2017, by 20th Century Fox, seven months after Ringling Bros. and Barnum & Bailey Circus ceased operations. The film grossed $435 million worldwide, making it the fifth-highest-grossing live-action musical of all time.\n\nThe film was criticised for its artistic license, with some reviewers calling it \"faux-inspiring and shallow\",[4][5][6] but was praised for the performances, music, visuals, and production values, and received nominations for Best Motion Picture – Musical or Comedy and Best Actor – Musical or Comedy for Jackman at the 75th Golden Globe Awards. The film won the Golden Globe Award for Best Original Song for the song \"This Is Me\", was nominated for Best Original Song at the 90th Academy Awards[7] and won the Best Compilation Soundtrack for Visual Media at the 61st Annual Grammy Awards.[8]",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "Theory of everything",
+      "body": "Stephen Hawking, an excellent astrophysics student working on his research, learns that he suffers from motor neurone disease and has around two years to live.",
+      "author": "mario",
+      "id": 5
+    }
+  ]
+}
